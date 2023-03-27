@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @eat-your-glory
-- 👀 I’m interested in coding, videogames, and football
-- 🌱 I’m currently learning Python 3
-- 💞️ I’m looking to collaborate on: idk really
-- 📫 How to reach me: if you want to reach me, dm me or tweet at me @falang3_ricky
+Hello I'm eat-your-glory!
+I have a lot of accounts all over social media platforms!
+I wanna learn a coding language, but I really don't know which.
+To reach out to me dm me on discord at eat-your-glory#0634 or send me an email at falanga.ricky@gmail.com
 
 <!---
 eat-your-glory/eat-your-glory is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
